@@ -4,7 +4,7 @@ Human and machine generated text often suffer from grammatical and/or typographi
 
 Fine-tuning for this model is done on relatively smaller models with not-so-much of data due to compute budget constraints. So take the results with a pinch of salt and consider this as a proof-of-concept for novel method for generating grammar error correction dataset. I am working on a version based on a larger base model and lot more data if someone might want to use this in producution setup
 
-Usecases for Gramformer
+# Usecases for Gramformer
 Area 1: Post-processing machine generated text
 
 Machine-Language generation is becoming mainstream, so will post-processing machine generated text.
